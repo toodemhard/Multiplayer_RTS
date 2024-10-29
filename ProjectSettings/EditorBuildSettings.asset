@@ -5,14 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Tutorials/Moba/ConnectionScene.unity
     guid: 5652506fc72e4fa42a51d693df592812
-  - enabled: 1
+  - enabled: 0
     path: Assets/Tutorials/Moba/MobaScene.unity
     guid: d8d4fff4b3ac7f54a8d2aabd663bdb11
-  - enabled: 1
+  - enabled: 0
     path: Assets/Tutorials/Moba/MobaEntities.unity
     guid: 2564875bffa23d74687e8e5c9390180d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 93d11b15c7c4a254da962c79e809e1b1, type: 3}
+  m_UseUCBPForAssetBundles: 0
